@@ -34,13 +34,23 @@ We can just add additional fonts by seperating them with the pipe ( | ) characte
     background-color: #9b59b6;
 }
 
-.ui-menu-color-content {
+.ui-menu-color-contact {
     background-color: #3498db;
 }
 
 .ui-menu-color-download {
     background-color: #525252;
 }
+
+/* -----------------------------------------Containers */
+
+/* Not used but I want the deducation and work container to use a overflow scroll bar.
+   I need to set the hight to a set hight so the footer is visuable on large screens. */
+/*   
+.container-overflow {
+    max-height: 462px;
+    overflow-y: auto;
+} */
 
 /* -----------------------------------------Special paddings/margins/text */
 
@@ -316,7 +326,7 @@ footer {
     margin: 40px 20px;
 }
 
-/* -----------------------------------------Work History */
+/* -----------------------------------------Education & Work History */
 
 .history-heading {
     color: #fafafa;
@@ -324,7 +334,7 @@ footer {
 }
 
 .timeline-item {
-    padding: 4em 2em 0em 2em;
+    padding: 4em 0em 0em 2em;
     position: relative;
     color: #fafafa;
     border-left: 1px solid;
