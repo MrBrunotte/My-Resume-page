@@ -1,20 +1,19 @@
+# My resume projects
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+My resume is my first project in the full stack web development course.
+I have learned to use HTML, CSS and Bootstrap to build my own webpage, 
+in the project I have learned about different resorces that are freely 
+awailable on the internet.
 
+## web pages that i have used in this project:
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
-
-
+### GitHub
+### Bootstrap
+### Google fonts
+### CodeDrops
+### Code Validtor
+### CSSmatic
+### Fontawsome
+### CSS Tricks
+### Hover CSS (github page)
+### W3School
